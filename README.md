@@ -1,7 +1,7 @@
 # Sample Website 
  
  A Sample website has been created to give various details about New York State including, cities, regions, income level, and unique facts. 
- Basic form validation has been implemented for test and practice. No back end has been established. 
+# Basic form validation has been implemented for test and practice. No back end has been established. 
  1. Image References are listed here: 
 -<img src="New York Regional Map.jpg" alt="The regions of New York State" id="newyorkmap"> 
 REFERENCES: https://esd.ny.gov/file/esd-regional-mapjpg
