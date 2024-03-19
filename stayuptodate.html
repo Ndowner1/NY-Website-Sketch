@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to New York State</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header id="topofstatepage"> 
+        <h1>Welcome to New York State</h1>
+        <nav>
+           <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="albany.html">Albany</a></li>
+                <li><a href="newyorkcity.html">NYC</a></li>
+                <li><a href="binghamton.html">Binghamton</a></li>
+                <li><a href="stayuptodate.html">Form</a></li>
+           </ul> 
+        </nav>
+    </header>
+    <div id="bodylayout">
+              
+    <section>
+        <h1>Emailing List</h1>
+        <h2>Enter our emailing list to stay up to date with new State Websites</h2>
+        <form action="zybooks.com" method="POST" id="formSubmit">
+            <div id="formContainer">
+                <div>
+                    <label for="firstName">First Name</label>
+                    <input type="text" id="firstName" name="firstName" placeholder="Enter First Name" required>
+                </div>
+                <div>
+                    <label for="lastName">Last Name</label>
+                    <input type="text" name="lastName" id="lastName" placeholder="Enter Last Name" required>
+                </div>
+                <div>
+                    <label for="emailAdd" name="emailAdd">Email Address</label>
+                    <input type="email" name="emailAdd" id="emailAdd" placeholder="Enter Email" required>
+                </div>
+                <div>
+                    <label for="confirmEmail" name="confirmEmail">Confirm Email</label>
+                    <input type="email" name="confirmEmail" id="confirmEmail" placeholder="Confirm Email" required>
+                </div>
+                <div>
+                    <textarea name="suggestions" id="suggestions" cols="30" rows="10" placeholder="Enter suggestions for states here"></textarea>
+                </div>
+                    <button type="submit">
+                        <div class="imgButton">
+                            <img src="Ilovenyhorizontal.png" alt="I Love NY"><span>Submit</span>
+                        </div>
+                    </button>
+            </div>
+        
+        </form>
+        <img id="bttmLogo" src="Ilovenyhorizontal.png" alt="I love NY image">
+    </section>
+    <aside>
+        <div class="adImage">
+            <div class="overlay">
+            <h1>Find Your Dream Apt Here: <span>Call 1-800-COOLAPTS</span></h1>
+            </div>
+        </div>
+    </aside>
+    </div>
+    <footer> Copyright &copy; 2023 Nieghel Downer <a href="#topofstatepage">Back to top</a></footer>
+    <script src="Email Confirmation script.js" defer></script>
+</body>
+</html>
