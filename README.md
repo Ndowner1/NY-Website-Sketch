@@ -1,6 +1,8 @@
-# A Sample website has been created to give various details about New York State including, cities, regions, income level, and unique facts. 
-# Basic form validation has been implemented for test and practice. No back end has been established. 
-# 1. Image References are listed here: 
+# Sample Website 
+ 
+ A Sample website has been created to give various details about New York State including, cities, regions, income level, and unique facts. 
+ Basic form validation has been implemented for test and practice. No back end has been established. 
+ 1. Image References are listed here: 
 -<img src="New York Regional Map.jpg" alt="The regions of New York State" id="newyorkmap"> 
 REFERENCES: https://esd.ny.gov/file/esd-regional-mapjpg
 
@@ -8,7 +10,7 @@ REFERENCES: https://esd.ny.gov/file/esd-regional-mapjpg
 -<img src="Ilovenyhorizontal.png" alt="I Love NY"><span>Submit</span> 
 REFERENCES: https://news.yahoo.com/blogs/newsmakers/taxi-ride-led-milton-glaser-famous-heart-ny-190214555.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS8&guce_referrer_sig=AQAAAKwljPsbTTo-cKYnP3Wagbd7YpfNkU9fW3Ef5iExrWlSTz7N4o9lusYX9sXMuLd0PIcjWV-eMbACjZORYsAqXkqYowl5-xkoPDHBSkC1jTUs-_usiJe69AXIg367f26T8BLC0bHXSXtNWD2A8PfHf0ijkE4U9V7JJ8Wxr0nXAzmh
 
-# 2. Data References are listed here:
+ 2. Data References are listed here:
 
 index.html 
 REFERENCES: 
